@@ -1,2 +1,2 @@
 # SimpleAR
-Simple AR projects
+Simple AR projects created using A-Frame JS
